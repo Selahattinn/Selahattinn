@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend apps using Golang, focusing on designing the architecture for robust and scalable systems.<br>👯 I’m looking to collaborate on projects involving backend development, particularly in Golang, where I can contribute to designing and implementing efficient architectures.<br>🌱 I’m currently learning advanced techniques in Golang for concurrent programming and microservices architecture to enhance the scalability and performance of my backend systems.<br>💬 Ask me about Golang and backend architecture, including topics such as system design, scalability, performance optimization, security, and data management.
+🔭 I’m currently working on Backend apps using Golang, focusing on designing the architecture for robust and scalable systems.<br>👯 I’m looking to collaborate on projects involving backend development, particularly in Golang, where I can contribute to designing and implementing efficient architectures.<br>💬 Ask me about Golang and backend architecture, including topics such as system design, scalability, performance optimization, security, and data management.
 
 
 ## 🌐 Socials:
